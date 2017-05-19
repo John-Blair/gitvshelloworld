@@ -10,7 +10,7 @@ namespace gitvshelloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hw!");
+            Console.WriteLine("Hw update!");
             Console.ReadLine();
 
         }
